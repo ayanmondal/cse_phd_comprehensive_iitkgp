@@ -18,4 +18,3 @@
 16. PhD Qualifier Examination - November 3, 2015
 17. PhD Qualifier Examination - Mrch 30, 2016
 18. PhD Qualifier Examination - November 3, 2016
-# cse_phd_comprehensive_iitkgp
