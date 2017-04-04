@@ -18,4 +18,6 @@
 16. PhD Qualifier Examination - November 3, 2015
 17. PhD Qualifier Examination - Mrch 30, 2016
 18. PhD Qualifier Examination - November 3, 2016
-19. PhD Qualifier Examination (SIT Syllabus) - March 29, 2017
+19. PhD Qualifier Examination (SIT Syllabus) - November 3, 2016, 2017
+20. PhD Qualifier Examination - March 29, 2017
+21. PhD Qualifier Examination (SIT Syllabus) - March 29, 2017
